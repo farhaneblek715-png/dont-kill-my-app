@@ -1,3 +1,4 @@
+lenovo tb8505f
 ---
 manufacturer: 
     - lenovo
